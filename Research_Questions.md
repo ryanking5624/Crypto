@@ -6,5 +6,6 @@
 
 - Simple correlations between all of the variables
 - Does ETH go up on certain days?
-- Relationship between volume and price going up/down?
-
+- Relationship between volume and price going up/down? 
+- Relationship between stock market and crypto
+- Can past prices be used to predict current prices?
